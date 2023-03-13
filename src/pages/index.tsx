@@ -2,7 +2,6 @@ import { Bullet } from "@/components/Bullet";
 import { copyToClipboard } from "@/utils/copyToClipboard";
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
 import { useRef, useState } from "react";
 import { Toaster, toast } from "react-hot-toast";
 import Github from "../components/GitHub";
