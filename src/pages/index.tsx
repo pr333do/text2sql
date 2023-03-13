@@ -79,7 +79,7 @@ const Home: NextPage = () => {
 
       <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 mt-12 sm:mt-20">
         <a
-          className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-neutral-800 bg-black px-4 py-2 text-sm text-neutral-300 shadow-md transition-colors hover:bg-neutral-900 mb-5"
+          className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-neutral-800 bg-neutral-900 px-4 py-2 text-sm text-neutral-300 shadow-md transition-colors hover:bg-black mb-5"
           href="https://github.com/pr333do/text2sql"
           target="_blank"
           rel="noopener noreferrer"
